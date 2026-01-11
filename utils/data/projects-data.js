@@ -33,8 +33,8 @@ export const projectsData = [
     id: 4,
     name: 'Food Waste Management System',
     description:
-      'Developed a computer vision solution for food waste detection using YOLOv5/YOLOv7 to estimate waste weight with high accuracy. Built a feedback system that visualizes waste metrics to reduce institutional food wastage.',
-    tools: ['YOLOv5', 'YOLOv7', 'Computer Vision', 'Python'],
+      'Developed a computer vision solution for food waste detection using YOLOv7 to estimate waste weight with high accuracy. Built a feedback system that visualizes waste metrics to reduce institutional food wastage.',
+    tools: ['YOLOv7', 'Computer Vision', 'Python'],
     role: 'Computer Vision Developer',
     code: 'https://github.com/', // add link if available
     demo: ''

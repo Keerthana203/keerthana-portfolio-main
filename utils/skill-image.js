@@ -50,6 +50,7 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import SpringBoot from '../app/assets/svg/skills/spring.svg'
 
 
 
@@ -161,6 +162,8 @@ export const skillsImage = (skill) => {
       return fastapi;
     case 'scikit-learn':
       return scikitlearn;
+    case 'SpringBoot':
+      return SpringBoot;
     default:
       break;
   }

@@ -1,6 +1,9 @@
 export const skillsData = [
-   "Java",
+    "SpringBoot",
+    "angular",
+    "Java",
     "Python",
+    "typescript",
     "FastAPI",
     "MySQL",
     "PostgreSQL",
